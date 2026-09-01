@@ -4,9 +4,11 @@
 
 ## 形象设计
 
-**三视图：![zhubao-turnaround](README.assets/zhubao-turnaround.png)**
+**三视图：**
 
-![ChatGPT Image 2026年9月1日 22_11_15](README.assets/ChatGPT Image 2026年9月1日 22_11_15.png)
+![42a791d3‑7152‑40eb‑937c‑580df2719ac4](README.assets/42a791d3‑7152‑40eb‑937c‑580df2719ac4.png)
+
+![18cf50b9‑2463‑47ad‑820e‑739bf1460d52](README.assets/18cf50b9‑2463‑47ad‑820e‑739bf1460d52.png)
 
 ## 用法示例
 
@@ -18,15 +20,9 @@
 
 ## 生成效果示例
 
-![060e16f6-8698-48bc-864b-211c0328e465](README.assets/060e16f6-8698-48bc-864b-211c0328e465.png)
+![1. 27d083c5‑1649‑41be‑a306‑857fb2914ec0](README.assets/1. 27d083c5‑1649‑41be‑a306‑857fb2914ec0.png)
 
-![ChatGPT Image 2026年9月1日 23_49_03](README.assets/ChatGPT Image 2026年9月1日 23_49_03.png)
-
-![ChatGPT Image 2026年9月1日 23_47_43](README.assets/ChatGPT Image 2026年9月1日 23_47_43.png)
-
-
-
-
+![75e204d8‑9031‑46fa‑b517‑294ac6083ef7](README.assets/75e204d8‑9031‑46fa‑b517‑294ac6083ef7.png)![060e16f6-8698-48bc-864b-211c0328e465](README.assets/060e16f6-8698-48bc-864b-211c0328e465-1788279479630-6.png)
 
 
 
