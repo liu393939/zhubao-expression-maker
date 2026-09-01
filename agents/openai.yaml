@@ -1,0 +1,17 @@
+interface:
+  display_name: zhubao expression maker
+  short_description: Generate expressive, mischievous, meme-like chibi sticker expressions
+    for “助宝”, the mascot of the 文理助手 campus mini program. Use this skill whenever
+    the user asks to make 助宝表情包、搞怪表情、古灵精怪动作、校园梗图、贴纸、聊天表情、reaction image, or asks to
+    keep 助宝 character consistency while changing pose/expression. Default to upper-body
+    compositions like the provided expression reference; only show the lower body
+    when the requested gag/action clearly depends on a full-body pose.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

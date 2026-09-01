@@ -1,0 +1,20 @@
+{
+  "skill_name": "zhubao-expression-maker",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "助宝看到明天早八，做一个生无可恋但很搞怪的表情，不要文字。",
+      "expected_output": "Upper-body 助宝 sticker with consistent brown twin-tail character design and chest-pin identity, exaggerated exhausted/meme expression, no text."
+    },
+    {
+      "id": 2,
+      "prompt": "助宝抢课成功，给我一个欠欠的狂喜表情，最好有一点反派得意感。",
+      "expected_output": "Upper-body sticker emphasizing smug victory, exaggerated starry/sly facial acting, consistent uniform and single chest pin."
+    },
+    {
+      "id": 3,
+      "prompt": "助宝彻底摆烂，做成全身，像一摊一样躺在地上。",
+      "expected_output": "Full-body sticker because body action is essential; character lies flattened/defeated while maintaining canonical design and chest badge where naturally visible."
+    }
+  ]
+}
