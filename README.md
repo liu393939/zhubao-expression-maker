@@ -4,11 +4,9 @@
 
 ## 形象设计
 
-**三视图：**
+**三视图：![zhubao-turnaround](README.assets/zhubao-turnaround.png)**
 
-![ChatGPT Image 2026年9月1日 22_29_17](C:\Users\Administrator\Downloads\ChatGPT Image 2026年9月1日 22_29_17.png)
-
-![ChatGPT Image 2026年9月1日 22_11_15](C:\Users\Administrator\Downloads\ChatGPT Image 2026年9月1日 22_11_15.png)
+![ChatGPT Image 2026年9月1日 22_11_15](README.assets/ChatGPT Image 2026年9月1日 22_11_15.png)
 
 ## 用法示例
 
@@ -20,11 +18,13 @@
 
 ## 生成效果示例
 
-![060e16f6-8698-48bc-864b-211c0328e465](C:\Users\Administrator\Downloads\060e16f6-8698-48bc-864b-211c0328e465.png)
+![060e16f6-8698-48bc-864b-211c0328e465](README.assets/060e16f6-8698-48bc-864b-211c0328e465.png)
 
-![ChatGPT Image 2026年9月1日 23_49_03](C:\Users\Administrator\Downloads\ChatGPT Image 2026年9月1日 23_49_03.png)
+![ChatGPT Image 2026年9月1日 23_49_03](README.assets/ChatGPT Image 2026年9月1日 23_49_03.png)
 
-![ChatGPT Image 2026年9月1日 23_47_43](C:\Users\Administrator\Downloads\ChatGPT Image 2026年9月1日 23_47_43.png)
+![ChatGPT Image 2026年9月1日 23_47_43](README.assets/ChatGPT Image 2026年9月1日 23_47_43.png)
+
+
 
 
 
